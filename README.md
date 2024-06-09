@@ -1,4 +1,4 @@
-# Predictive Maintenance using Synthetic Dataset
+# Predictive Maintenance
 
 In industrial settings, predictive maintenance is crucial for preventing unexpected equipment failures and optimizing maintenance schedules. This project aims to develop a predictive model to accurately identify machine failures using a synthetic dataset that closely mimics real-world industrial maintenance data.
 
